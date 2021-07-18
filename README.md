@@ -40,8 +40,6 @@ yarn start
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Note: Make sure you add base url of the server in the authService.js currently it's using relative path
-
 ## Run tests
 
 ```sh

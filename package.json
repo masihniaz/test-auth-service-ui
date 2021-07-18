@@ -5,15 +5,6 @@
   "main": "index.js",
   "private": true,
   "author": "Masih Niaz",
-  "license": "ISC",
-  "homepage": "https://github.com/masihniaz/testing-auth-service-ui#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/masihniaz/test-auth-service-ui.git"
-  },
-  "bugs": {
-    "url": "https://github.com/masihniaz/test-auth-service-ui/issues"
-  },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
@@ -61,5 +52,6 @@
   "engines": {
     "npm": ">=7.20.0",
     "node": ">=15.8.0"
-  }
+  },
+  "proxy": "http://localhost:3001"
 }
