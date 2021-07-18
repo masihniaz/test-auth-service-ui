@@ -53,5 +53,5 @@
     "npm": ">=7.20.0",
     "node": ">=15.8.0"
   },
-  "proxy": "http://localhost:3001"
+  "proxy": "http://localhost:3000"
 }
